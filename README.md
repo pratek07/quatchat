@@ -1,2 +1,0 @@
-# quatchat
-cryptography networking system
